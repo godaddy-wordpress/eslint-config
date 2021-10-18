@@ -1,0 +1,25 @@
+{
+  "name": "@godaddy-wordpress/eslint-config",
+  "version": "0.1.0",
+  "description": "A repository for JS linting rules being used in GoDaddy WordPress projects.",
+  "keywords": [
+    "godaddy",
+    "eslint",
+    "eslint-config"
+  ],
+  "repository": "godaddy-wordpress/eslint-config",
+  "main": "index.js",
+  "author": "GoDaddy Operating Company, LLC",
+  "license": "GPL-2.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "eslint": "^7.0.1"
+  },
+  "devDependencies": {
+    "@wordpress/eslint-plugin": "^9.2.0",
+    "eslint": "^7.0.1",
+    "eslint-plugin-react": "^7.26.1"
+  }
+}
