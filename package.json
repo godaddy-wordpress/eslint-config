@@ -15,11 +15,11 @@
     "access": "public"
   },
   "peerDependencies": {
-    "eslint": "^7.0.1"
+    "eslint": "^7.32.0"
   },
   "devDependencies": {
     "@wordpress/eslint-plugin": "^9.2.0",
-    "eslint": "^7.0.1",
+    "eslint": "^7.32.0",
     "eslint-plugin-react": "^7.26.1"
   }
 }

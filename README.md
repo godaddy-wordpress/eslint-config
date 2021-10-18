@@ -21,3 +21,10 @@ module.exports = {
 	extends: ['@godaddy-wordpress/eslint-config'],
 }
 ```
+
+## How to deploy
+
+npm version minor
+git push
+git push --tags
+npm publish
