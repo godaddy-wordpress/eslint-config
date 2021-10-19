@@ -10,6 +10,7 @@ module.exports = {
 		'import/no-extraneous-dependencies': 0,
 		'sort-imports': [ 'error', {
 			allowSeparatedGroups: true,
+			ignoreCase: true,
 			memberSyntaxSortOrder: [ 'all', 'single', 'multiple', 'none' ],
 		} ],
 		'sort-keys': [ 'error', 'asc', { natural: true } ],
