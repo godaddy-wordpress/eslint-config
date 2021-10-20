@@ -7,7 +7,6 @@ module.exports = {
 	],
 	rules: {
 		// ESLint rules
-		'import/no-extraneous-dependencies': 0,
 		'sort-imports': [ 'error', {
 			allowSeparatedGroups: true,
 			ignoreCase: true,
