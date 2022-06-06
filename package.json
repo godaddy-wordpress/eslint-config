@@ -22,6 +22,6 @@
     "eslint-plugin-react": "^7.26.1"
   },
   "dependencies": {
-    "@wordpress/eslint-plugin": "^9.2.0"
+    "@wordpress/eslint-plugin": "^12.4.0"
   }
 }
