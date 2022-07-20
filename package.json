@@ -1,6 +1,6 @@
 {
   "name": "@godaddy-wordpress/eslint-config",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "A repository for JS linting rules being used in GoDaddy WordPress projects.",
   "keywords": [
     "godaddy",
