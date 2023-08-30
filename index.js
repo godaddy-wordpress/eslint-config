@@ -19,9 +19,9 @@ module.exports = {
 		'react/destructuring-assignment': [ 'error', 'always' ],
 		'react/jsx-no-target-blank': [ 'error' ],
 		'react/jsx-no-undef': [ 'error' ],
-		'react/jsx-sort-default-props': [ 'error', { ignoreCase: true } ],
 		'react/jsx-sort-props': [ 'error', { ignoreCase: true } ],
 		'react/no-deprecated': [ 'warn' ],
+		'react/sort-default-props': [ 'error', { ignoreCase: true } ],
 		'react/sort-prop-types': [ 'error', { ignoreCase: true } ],
 	},
 };
